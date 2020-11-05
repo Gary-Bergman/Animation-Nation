@@ -1,13 +1,3 @@
-# Description
-
-This is my open-source contribution to the Hacktoberfest Animation-Nation project to create an art piece using only HTML and CSS!
-
-Check out my file `gbArt` in the `Art` folder.
-
-# GIF
-
- ![shapeFlip gif](Art/gbArt/shapeFlip.gif)
-
 ---
 > ### **UPDATE:** Event Concluded!
   >
